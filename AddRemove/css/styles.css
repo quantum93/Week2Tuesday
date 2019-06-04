@@ -26,3 +26,9 @@
   color: black;
   background-color: grey
 }
+
+.onClick {
+  background-color: yellow;
+  padding: 2px;
+  border: 2px solid black;
+}

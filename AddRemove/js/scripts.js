@@ -34,4 +34,11 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("darkTxtlightBack");
   });
+  $("button#original").click(function() {
+    $("body").removeClass();
+  });
+  // Function for hightlight and box
+  $("body").click(function() {
+    $("p").addClass("onClick");
+  });
 });
