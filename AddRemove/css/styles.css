@@ -1,0 +1,28 @@
+.green-background {
+  background-color: green;
+}
+.yellow-background {
+  background-color: yellow;
+}
+.red-background {
+  background-color: red;
+}
+
+.green-text {
+  color: green;
+}
+.yellow-text {
+  color: yellow;
+}
+.red-text {
+  color: red;
+}
+
+.lightTxtDarkBack {
+  color: grey;
+  background-color: black
+}
+.darkTxtlightBack {
+  color: black;
+  background-color: grey
+}

@@ -1,25 +1,10 @@
-/* img {
-  display: none;
-} */
-
 #walrus-showing {
   display: none;
 }
 
-#walrus2-fadeIn {
+#walrus2In {
   display: none;
 }
-
-#walrus2-fadeOut {
-  display: none;
-}
-
-/* #walrus-fadeout {
-  display: none;
-} */
-/* .walrus-hidden {
-  display: none;
-} */
 
 .clickable {
   cursor: pointer;
@@ -29,30 +14,3 @@
 .clickable:hover {
   text-decoration: underline;
 }
-
-.clickable2 {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.clickable2:hover {
-  text-decoration: underline;
-}
-
-.clickable3 {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.clickable3:hover {
-  text-decoration: underline;
-}
-
-/* .fade {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.fade:hover {
-  text-decoration: underline;
-} */
